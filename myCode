@@ -4,5 +4,9 @@ FUNCION mostrar_mensaje(a:entero):String
     IMPRIMIR: i+1 //Se muestran la sucesion de numeros
   FIN PARA
   mostrar_mensaje = "okey"
-  mostrar_mensaje = "No"
+  mostrar_mensaje = "no"
+  mostrar_mensaje = "error"
+
+  
+
 FIN FUNCION
