@@ -1,7 +1,7 @@
 FUNCION mostrar_mensaje(a:entero):String
   entero i
   PARA i=0;i=a;i++
-    IMPRIMIR: i
+    IMPRIMIR: i+1 //Se muestran la sucesion de numeros
   FIN PARA
   mostrar_mensaje = "okey"
 FIN FUNCION
